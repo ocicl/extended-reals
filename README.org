@@ -1,0 +1,10 @@
+* extended-reals
+
+Extended real numbers for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/tpapp/extended-reals.git   |
+| commit  | 9b7ddf5  |
+| systems | extended-reals |
+|---------+-------------------------------------------|
+
