@@ -8,4 +8,4 @@ Extended real numbers for Common Lisp
 | systems | extended-reals |
 |---------+-------------------------------------------|
 
- 
+  
